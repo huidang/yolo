@@ -1,10 +1,7 @@
 # YOLOV3
-This is a pytorch and python based yolov3 project. You can also access darknet version in github. Corresponding paper is in
-
-[DOI]: https://pjreddie.com/media/files/papers/YOLOv3.pdf	"yolov3. "
+This is a pytorch and python based yolov3 project. You can also access darknet version in github. Corresponding paper is in [yolov3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 
 Software required:
-
 - [x] pytorch >=1.4
 - [x] numpy
 - [x] opencv
@@ -48,7 +45,7 @@ then,  yolov3.xml and yolov3.bin can be written to model path.
 
 ## Citation
 
-[DOI]: https://github.com/ultralytics/yolov3	"ultralytics/yolov3"
+[ultralytics/yolov3](https://github.com/ultralytics/yolov3)
 
 ## About Us
 
