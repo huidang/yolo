@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 # YOLOV3
-This is a pytorch and python based yolov3 project. You can also access darknet version in github. Corresponding paper is in
-
-[DOI]: https://pjreddie.com/media/files/papers/YOLOv3.pdf	"yolov3. "
+This is a pytorch and python based yolov3 project. You can also access darknet version in github. Corresponding paper is in [yolov3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 
 Software required:
-
 - [x] pytorch >=1.4
 - [x] numpy
 - [x] opencv
@@ -49,19 +45,9 @@ then,  yolov3.xml and yolov3.bin can be written to model path.
 
 ## Citation
 
-[DOI]: https://github.com/ultralytics/yolov3	"ultralytics/yolov3"
+[ultralytics/yolov3](https://github.com/ultralytics/yolov3)
 
 ## About Us
 
 We are devoted to  make it easier to apply cnn based detector in mobile devices. Add the QQ community :  983931813 to join us.
-=======
-# yolo
-pytorch and python based yolov3
-you can access the paper in https://pjreddie.com/media/files/papers/YOLOv3.pdf
-This is pytorch based code. You can also access darknet version int github.
-You can easily used train you net by following way:
-python train.py --cfg yours.cfg --weights yours.weights --batch-size 8 --epoch 50 --devices 0,1
 
-And you can test your trained model as this:
-python detect.py --cfg yours.cfg --weights yours.weights --source img_path
->>>>>>> 00cd5e4d297765c2ca920efdf81366d423b2bc22
