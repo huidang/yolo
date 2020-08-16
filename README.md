@@ -41,7 +41,10 @@ python mo_onnx.py --input_model model/yolov3.onnx --output_dir model
 
 then,  yolov3.xml and yolov3.bin can be written to model path.
 
-#### Python based openvino test demo 、knowledge distillation and quantization code will be shown soon.
+## Update
+20200816: Add openvino inference code.
+
+#### Python based knowledge distillation and quantization code will be shown soon.
 
 ## Citation
 
